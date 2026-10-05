@@ -54,6 +54,7 @@ The goal of the group is to advance space technology innovation and competitiven
 - Alexey Simonov (TII)
 - Ivan Perez (KBR @ NASA Ames Research Center)
 - Eoin Dickson (Microchip)
+- Hiroki Hihara (NEC Space Technologies)
 
 
 ## Attended recently in the past
@@ -103,6 +104,7 @@ The goal of the group is to advance space technology innovation and competitiven
 - Tony James (Red Hat)
 - Tyler Kwolek
 - Yasushi SHOJI (Space Cubics)
+- Hiroki Hihara (NEC Space Technologies)
 
 ---
 
